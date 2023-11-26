@@ -17,11 +17,11 @@ export const AddTodo = (props) => {
         
     }
   return (
-    <div className='container my-3'>
-        <h3>
+    <div className='container my-3 py-3 px-3'>
+        <h3 className='px-2'>
             Add Todo
         </h3>
-        <form onSubmit={submit}>
+        <form className='col-sm-12 col-md-8 col-lg-6 px-3' onSubmit={submit}>
   <div className="mb-3">
     <label htmlFor="title" className="form-label">Title</label>
     <input type="text" value={title} onChange={(e)=>{setTitle(e.target.value)}} className="form-control" id="title" aria-describedby="emailHelp"/>

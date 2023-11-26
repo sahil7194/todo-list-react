@@ -2,7 +2,7 @@ import React from 'react'
 
 export const  Todo =({todo, onDelete}) => {
   return (
-    <div className='my-2 px-4'>
+    <div className='px-4'>
       <h5 className='mt-2'>
         {todo.title}
       </h5>
