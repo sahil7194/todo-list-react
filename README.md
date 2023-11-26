@@ -25,13 +25,13 @@ During the development of this project, I learned the following:
 ## Screenshots
 
 ### Home
-![Home Page](/path/to/home-screenshot.png)
+![Home Page](https://github.com/sahil7194/todo-list-react/blob/master/Screenshot/home%20page.png?raw=true)
 
 ### Todo List
-![Todo List](/path/to/todos-screenshot.png)
+![Todo List](https://github.com/sahil7194/todo-list-react/blob/master/Screenshot/example%20todos%20list.png?raw=true)
 
 ### About Us
-![About Us Page](/path/to/about-us-screenshot.png)
+![About Us Page](https://github.com/sahil7194/todo-list-react/blob/master/Screenshot/about%20us.png?raw=true)
 
 ## How to Use
 
